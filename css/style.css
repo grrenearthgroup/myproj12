@@ -288,6 +288,11 @@ button.button-primary:hover{
     background-color: #66BB6A;
     border-color: #66BB6A;
 }
+button.button-primary a{
+    color: white;
+    text-decoration: none;
+}
+
 #ge-email{
     color:gray;
 }
